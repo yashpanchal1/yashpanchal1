@@ -2,6 +2,8 @@
 
 **yashpanchal1/yashpanchal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://user-images.githubusercontent.com/69137365/89155417-68466800-d586-11ea-85e9-7edf40d0ed9e.jpg" height="100px">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,11 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<---
-* yash
-* panchal
 
-```
-github is good
-```
--->
